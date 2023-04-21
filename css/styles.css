@@ -1005,6 +1005,10 @@ padding-bottom: 120px;
         gap: 16px;
         flex-wrap: wrap;
     }
+        .customers-link {
+            padding: 16px 40px;
+    
+        }
 }
 @media screen and (min-width: 428px) {
 .customers-list {
@@ -1018,11 +1022,11 @@ padding-bottom: 120px;
     flex-wrap: wrap;
 }
  .customers-link {
-     padding: 16px 32px;
+     padding: 16px 40px;
      
  }
 .customers-icon {
-    width: 110px;
+    width: 104px;
      height: 56px;
 }
 
@@ -1048,6 +1052,10 @@ padding-bottom: 120px;
         padding-right: 108px;
     }
 
+         .customers-link {
+             padding: 16px 32px;
+    
+         }
 }
 
 @media screen and (min-width: 1158px) {
